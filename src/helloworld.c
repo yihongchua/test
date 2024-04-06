@@ -1,9 +1,6 @@
 #include <stdio.h>
 
 int main() {
-    printf("Updog!\n");
-    printf("What's updog?\n");
-    printf("The ceiling :)\n");
-    printf("Bruh...\n");
+    printf("Hello James!\n");
     return 0;
 }
