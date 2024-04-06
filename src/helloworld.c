@@ -4,5 +4,6 @@ int main() {
     printf("Updog!\n");
     printf("What's updog?\n");
     printf("The ceiling :)\n");
+    printf("Bruh...\n");
     return 0;
 }
